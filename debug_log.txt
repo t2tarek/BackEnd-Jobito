@@ -1,0 +1,4683 @@
+[5/4/2026 10:44:58 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:45:00 PM] HTTP 400 PATCH /api/companies/my/profile
+Body: {"name":"تالتالالاتا","fullName":"Test Company","website":"","industry":"","description":"","address":"","employees":"","phone":"02222222222","email":"thet2@gmail.com","location":"","bio":"","classification":"تقني","logo":"","avatar":"","socialLinks":"{\"instagram\":\"\",\"twitter\":\"\",\"facebook\":\"\",\"linkedin\":\"\",\"youtube\":\"\"}","locationTags":[],"techStack":[],"benefits":"[]","foundedDate":"","logoUrl":"/uploads/general/94a9e702-fbd0-4029-abda-3da45859f8f8_t2 image.jfif","Name":"تالتالالاتا"}
+---
+[5/4/2026 10:45:21 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:45:51 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:46:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:46:58 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 10:46:58 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 10:46:58 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 10:46:58 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 10:47:18 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 10:47:18 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 10:47:18 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 10:47:18 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 10:47:19 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 10:47:21 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:47:51 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:48:21 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:49:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:50:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:50:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:50:59 PM] HTTP 401 GET /api/users/me
+Body: 
+---
+[5/4/2026 10:50:59 PM] HTTP 401 GET /api/users/me
+Body: 
+---
+[5/4/2026 10:50:59 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 10:50:59 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 10:51:21 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:51:32 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:51:32 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:51:37 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:51:37 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:51:40 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 10:51:40 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 10:52:07 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:52:37 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:53:07 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:53:07 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 10:53:07 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 10:53:07 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 10:53:07 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 10:53:08 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 10:53:37 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:54:07 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:54:37 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:55:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:55:37 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:56:07 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:56:37 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:56:50 PM] HTTP 401 GET /api/users/me
+Body: 
+---
+[5/4/2026 10:56:50 PM] HTTP 401 GET /api/users/me
+Body: 
+---
+[5/4/2026 10:56:51 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 10:56:51 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 10:57:07 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 10:57:07 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 10:57:07 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:57:19 PM] HTTP 404 GET /api/applications/status/1
+Body: 
+---
+[5/4/2026 10:57:19 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 10:57:19 PM] HTTP 404 GET /api/applications/status/1
+Body: 
+---
+[5/4/2026 10:57:19 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/4/2026 10:57:19 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/4/2026 10:57:37 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:58:07 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:58:37 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:59:00 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 10:59:00 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 10:59:07 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:59:58 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 10:59:58 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:00:01 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:00:01 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:00:12 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:00:12 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:00:28 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:00:58 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:01:28 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:01:58 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:02:28 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:02:58 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:04:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:05:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:05:28 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:05:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:05:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:05:48 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:05:48 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:05:48 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:05:48 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:05:49 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:05:59 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:06:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:06:59 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:07:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:07:59 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:08:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:09:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:10:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:10:16 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:10:16 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:10:35 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:10:35 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:10:35 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:10:35 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:10:36 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:10:38 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:10:40 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:10:45 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:10:46 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:10:50 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:11:03 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:11:03 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:11:03 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:11:03 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:11:03 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:11:05 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:11:16 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:11:32 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:11:32 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:11:32 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:11:32 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:11:40 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:11:40 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:11:40 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:11:46 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:12:16 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:12:46 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:13:16 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:13:16 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:13:16 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:13:16 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:13:16 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:13:18 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:13:18 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:13:18 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:13:46 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:14:16 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:14:46 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:15:32 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:15:34 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:15:34 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:16:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:16:31 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:16:31 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:16:31 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:16:31 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:16:34 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:16:43 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:16:43 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:16:43 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:16:43 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:16:44 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:17:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:17:05 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:17:05 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:17:05 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:17:05 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:17:06 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:17:08 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:17:14 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:17:19 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:17:25 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:17:30 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:17:34 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:18:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:18:34 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:19:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:19:34 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:19:50 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:19:50 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:19:50 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:19:50 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:20:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:20:29 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:20:29 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:20:29 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:20:34 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:20:36 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:20:36 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:20:36 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:20:36 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:20:49 PM] HTTP 401 GET /api/users/me
+Body: 
+---
+[5/4/2026 11:20:49 PM] HTTP 401 GET /api/users/me
+Body: 
+---
+[5/4/2026 11:20:49 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:20:49 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:21:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:21:09 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:21:09 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:21:34 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:22:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:23:01 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:23:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:23:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:23:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:23:40 PM] HTTP 404 GET /api/applications/my
+Body: 
+---
+[5/4/2026 11:23:40 PM] HTTP 404 GET /api/applications/my
+Body: 
+---
+[5/4/2026 11:23:58 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:23:58 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:24:02 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:24:02 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:24:03 PM] HTTP 404 GET /api/applications/my
+Body: 
+---
+[5/4/2026 11:24:03 PM] HTTP 404 GET /api/applications/my
+Body: 
+---
+[5/4/2026 11:24:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:24:08 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:24:08 PM] HTTP 404 GET /chat/my-chats/d832bd19-a7cd-4c60-a688-5db0b78d2c17
+Body: 
+---
+[5/4/2026 11:24:08 PM] HTTP 404 GET /chat/my-chats/d832bd19-a7cd-4c60-a688-5db0b78d2c17
+Body: 
+---
+[5/4/2026 11:24:08 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:24:09 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:24:09 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:24:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:25:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:25:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:26:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:26:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:27:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:27:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:28:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:28:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:29:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:29:34 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:30:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:31:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:32:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:32:10 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:32:10 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:32:41 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:33:11 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:33:41 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:34:11 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:34:41 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:35:11 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:35:41 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:36:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:36:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:36:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:37:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:37:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:38:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:38:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:38:34 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:38:37 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:38:37 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:39:05 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:39:29 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:39:29 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:39:29 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/4/2026 11:39:29 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/4/2026 11:39:34 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:39:42 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:39:42 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:40:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:40:35 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:41:00 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:41:00 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:41:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:41:35 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:42:05 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:42:17 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:42:17 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:42:20 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:42:20 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:42:47 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:42:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:42:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:42:51 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:42:51 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:43:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:43:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:44:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:44:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:44:06 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:44:06 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:44:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:45:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:45:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:46:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:46:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:47:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:47:44 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:47:46 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:47:46 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:47:50 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:47:50 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:48:16 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:48:47 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:49:17 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:49:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:49:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:49:32 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:49:32 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:49:42 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:49:42 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:49:42 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/4/2026 11:49:42 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/4/2026 11:49:56 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:49:56 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:49:58 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:49:58 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:49:58 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/4/2026 11:49:58 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/4/2026 11:49:59 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:50:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:50:59 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:51:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:51:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:51:27 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:51:27 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:51:27 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/4/2026 11:51:27 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/4/2026 11:51:28 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:51:29 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:51:31 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:51:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:52:18 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:52:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:52:34 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:52:35 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:52:35 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:52:35 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/4/2026 11:52:36 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:52:46 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:52:46 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:52:46 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:52:49 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:52:49 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:52:49 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/4/2026 11:52:49 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/4/2026 11:52:50 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:52:51 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:52:51 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:52:51 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:52:52 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:52:53 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:52:53 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:52:53 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/4/2026 11:52:54 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:52:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:52:54 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:52:54 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:52:55 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:52:56 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:52:56 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:52:56 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/4/2026 11:52:56 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/4/2026 11:52:57 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:52:58 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:52:58 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:52:58 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:53:00 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:53:00 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/4/2026 11:53:00 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/4/2026 11:53:00 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/4/2026 11:53:01 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:53:01 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:53:01 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:53:02 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/4/2026 11:53:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:53:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:54:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:54:41 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:54:41 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:54:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:55:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:55:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:56:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:56:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:57:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:57:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:57:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:57:55 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:57:55 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:58:13 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:58:13 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:58:16 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:58:16 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:58:43 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:59:13 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:59:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:59:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/4/2026 11:59:21 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:59:21 PM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/4/2026 11:59:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:00:18 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:00:21 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:00:21 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:00:24 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:00:24 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:00:52 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:01:09 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:01:09 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:01:12 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:01:12 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:01:40 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:02:10 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:02:39 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:03:05 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:03:05 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:03:09 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:03:10 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:03:10 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:03:13 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:03:13 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:03:40 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:04:10 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:04:40 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:05:03 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:05:03 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:05:06 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:05:06 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:05:19 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:05:19 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:05:33 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:05:36 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:05:36 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:05:39 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:05:39 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:06:06 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:06:36 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:07:06 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:07:22 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:07:22 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:07:25 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:07:25 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:07:52 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:07:58 AM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 12:07:58 AM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 12:07:58 AM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 12:08:00 AM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 12:08:04 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:08:04 AM] HTTP 400 GET /api/jobs/categories
+Body: 
+---
+[5/5/2026 12:19:37 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:20:06 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:20:26 AM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 12:20:26 AM] HTTP 404 GET /chat/my-chats/d832bd19-a7cd-4c60-a688-5db0b78d2c17
+Body: 
+---
+[5/5/2026 12:20:26 AM] HTTP 404 GET /chat/my-chats/d832bd19-a7cd-4c60-a688-5db0b78d2c17
+Body: 
+---
+[5/5/2026 12:20:26 AM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 12:20:26 AM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 12:20:36 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:21:06 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:21:36 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:22:06 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:22:36 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 12:22:54 AM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 12:22:54 AM] HTTP 404 GET /api/applications/status/1
+Body: 
+---
+[5/5/2026 12:22:54 AM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 12:22:54 AM] HTTP 404 GET /api/applications/status/1
+Body: 
+---
+[5/5/2026 12:22:54 AM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/5/2026 12:22:54 AM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/5/2026 12:22:54 AM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/5/2026 12:22:56 AM] HTTP 404 GET /api/applications/status/1
+Body: 
+---
+[5/5/2026 12:22:56 AM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/5/2026 12:23:01 AM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/5/2026 12:23:02 AM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/5/2026 12:23:06 AM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:10:28 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:10:57 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:11:12 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 9:11:12 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 9:11:12 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/5/2026 9:11:12 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/5/2026 9:11:28 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:11:58 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:12:27 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:12:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:12:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:13:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:13:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:14:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:14:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:15:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:15:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:17:06 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:17:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:17:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:18:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:18:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:19:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:19:32 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:19:32 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:20:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:20:32 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:21:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:21:32 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:22:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:22:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:22:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:22:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:22:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:22:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:22:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:22:50 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:22:50 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:23:20 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:23:50 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:24:20 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:24:50 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:25:20 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:25:50 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:26:30 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:26:50 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:27:20 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:28:06 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:28:20 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:28:50 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:29:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:32:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:32:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:34:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:34:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:35:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:35:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:36:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:36:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:37:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:37:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:37:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:37:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:38:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:38:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:39:19 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:39:22 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:39:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:39:42 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:39:48 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:39:48 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:39:49 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:39:49 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:39:51 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:39:51 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:39:51 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:39:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:40:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:40:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:41:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:41:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:42:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:42:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:43:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:43:35 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:35 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:37 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:38 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:39 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:39 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:40 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:40 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:41 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:41 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:41 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:41 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:41 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:41 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:41 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:41 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:42 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:42 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:42 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:42 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:42 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:42 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:42 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:43 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:43 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:43 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:44 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:44 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:44 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:45 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:45 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/5/2026 9:43:46 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/5/2026 9:43:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:44:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:44:34 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:44:34 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:45:05 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:45:35 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:46:05 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:46:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:46:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:46:32 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/5/2026 9:46:32 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 9:46:32 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 9:46:32 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 9:46:32 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 9:46:33 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 9:46:34 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/5/2026 9:46:35 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 9:46:36 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 9:46:37 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 9:46:38 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 9:46:39 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 9:46:41 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 9:46:50 PM] HTTP 404 POST /api/applications
+Body: {"job_id":2,"portfolioUrl":"يشسىتنيشتسيشيش","coverLetter":"شسيشسييسشيشسشي","address":"","resumeUrl":""}
+---
+[5/5/2026 9:46:53 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 9:46:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:47:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:47:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:48:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:48:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:49:01 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:49:01 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:49:04 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/5/2026 9:49:04 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 9:49:04 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/5/2026 9:49:04 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 9:49:04 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 9:49:05 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 9:49:07 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 9:49:07 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/5/2026 9:49:08 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 9:49:16 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 9:49:20 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 9:49:27 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 9:49:27 PM] HTTP 404 GET /chat/my-chats/d832bd19-a7cd-4c60-a688-5db0b78d2c17
+Body: 
+---
+[5/5/2026 9:49:27 PM] HTTP 404 GET /chat/my-chats/d832bd19-a7cd-4c60-a688-5db0b78d2c17
+Body: 
+---
+[5/5/2026 9:49:27 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 9:49:29 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 9:49:31 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:50:01 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:50:31 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:51:01 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:51:31 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:52:01 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:53:06 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:54:06 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:55:06 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:56:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:57:19 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:57:26 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 9:57:26 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 9:57:26 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 9:57:26 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 9:57:28 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 9:57:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:58:19 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:58:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:59:19 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 9:59:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:01:06 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:02:46 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:03:03 PM] HTTP 400 GET /api/applications/undefined
+Body: 
+---
+[5/5/2026 10:03:03 PM] HTTP 400 GET /api/applications/undefined
+Body: 
+---
+[5/5/2026 10:03:17 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:03:47 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:04:17 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:04:47 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:05:47 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:06:20 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:06:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:06:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:06:29 PM] HTTP 400 GET /api/applications/undefined
+Body: 
+---
+[5/5/2026 10:06:29 PM] HTTP 400 GET /api/applications/undefined
+Body: 
+---
+[5/5/2026 10:06:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:07:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:07:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:07:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:07:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:07:45 PM] HTTP 400 GET /api/applications/undefined
+Body: 
+---
+[5/5/2026 10:07:45 PM] HTTP 400 GET /api/applications/undefined
+Body: 
+---
+[5/5/2026 10:07:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:08:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:08:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:10:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:10:50 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:10:50 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:10:53 PM] HTTP 400 GET /api/applications/undefined
+Body: 
+---
+[5/5/2026 10:10:53 PM] HTTP 400 GET /api/applications/undefined
+Body: 
+---
+[5/5/2026 10:11:20 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:11:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:11:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:11:52 PM] HTTP 400 GET /api/applications/undefined
+Body: 
+---
+[5/5/2026 10:11:52 PM] HTTP 400 GET /api/applications/undefined
+Body: 
+---
+[5/5/2026 10:12:08 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:12:08 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:12:09 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 10:12:09 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 10:12:10 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/5/2026 10:12:19 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:12:24 PM] HTTP 405 PATCH /api/applications/1/status
+Body: {"status":"reviewing"}
+---
+[5/5/2026 10:12:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:12:56 PM] HTTP 405 PATCH /api/applications/1/status
+Body: {"status":"reviewing"}
+---
+[5/5/2026 10:13:19 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:13:26 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:13:26 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:13:26 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:13:26 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:13:27 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:13:37 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:13:37 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:13:37 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 10:13:46 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:13:46 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:13:46 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/5/2026 10:13:46 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/5/2026 10:13:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:14:12 PM] HTTP 404 GET /api/applications/status/1
+Body: 
+---
+[5/5/2026 10:14:12 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:14:12 PM] HTTP 404 GET /api/applications/status/1
+Body: 
+---
+[5/5/2026 10:14:12 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/5/2026 10:14:12 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/5/2026 10:14:14 PM] HTTP 404 GET /api/applications/status/1
+Body: 
+---
+[5/5/2026 10:14:16 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:14:19 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:14:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:15:00 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:15:00 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/5/2026 10:15:19 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:15:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:16:19 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:16:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:16:53 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:16:53 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:16:53 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/5/2026 10:16:53 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/5/2026 10:16:59 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:16:59 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:16:59 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 10:16:59 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 10:17:19 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:17:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:19:06 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:20:06 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:21:00 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:21:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:21:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:21:12 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:21:12 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:21:12 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 10:21:15 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:21:15 PM] HTTP 404 POST /api/jobs/1/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:21:15 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/5/2026 10:21:15 PM] HTTP 404 GET /api/jobs/similar/1
+Body: 
+---
+[5/5/2026 10:21:21 PM] HTTP 404 GET /favicon.ico
+Body: 
+---
+[5/5/2026 10:21:24 PM] HTTP 405 PATCH /api/applications/2/status
+Body: {"status":"reviewing"}
+---
+[5/5/2026 10:21:32 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:22:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:22:09 PM] HTTP 405 PATCH /api/applications/2/status
+Body: {"status":"reviewing"}
+---
+[5/5/2026 10:22:11 PM] HTTP 405 PATCH /api/applications/2/status
+Body: {"status":"hired"}
+---
+[5/5/2026 10:22:32 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:23:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:23:32 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:24:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:24:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:24:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:24:48 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:24:48 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:24:48 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:24:48 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:24:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:25:06 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:25:06 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:25:06 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:25:06 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:25:08 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:25:08 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:25:08 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:25:08 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:25:09 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:25:11 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:25:16 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:25:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:25:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:26:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:26:54 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:27:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:50:42 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:51:11 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:51:34 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:51:34 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:51:34 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/5/2026 10:51:34 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/5/2026 10:51:34 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 10:51:34 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 10:51:41 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:51:41 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:51:41 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/5/2026 10:51:41 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/5/2026 10:51:41 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/5/2026 10:51:41 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 10:51:41 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/5/2026 10:51:42 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/5/2026 10:51:55 PM] HTTP 403 GET /api/applications/my
+Body: 
+---
+[5/5/2026 10:51:55 PM] HTTP 403 GET /api/applications/my
+Body: 
+---
+[5/5/2026 10:52:09 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:52:09 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:52:09 PM] HTTP 404 GET /chat/my-chats/cec4abf1-97f6-4e3a-8de3-ee5529b2aee6
+Body: 
+---
+[5/5/2026 10:52:09 PM] HTTP 404 GET /chat/my-chats/cec4abf1-97f6-4e3a-8de3-ee5529b2aee6
+Body: 
+---
+[5/5/2026 10:52:10 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:52:11 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:52:13 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:52:28 PM] HTTP 403 GET /api/applications/my
+Body: 
+---
+[5/5/2026 10:52:28 PM] HTTP 403 GET /api/applications/my
+Body: 
+---
+[5/5/2026 10:52:31 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:52:31 PM] HTTP 404 GET /chat/my-chats/cec4abf1-97f6-4e3a-8de3-ee5529b2aee6
+Body: 
+---
+[5/5/2026 10:52:31 PM] HTTP 404 GET /chat/my-chats/cec4abf1-97f6-4e3a-8de3-ee5529b2aee6
+Body: 
+---
+[5/5/2026 10:52:31 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:52:32 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:52:34 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:52:41 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:53:00 PM] HTTP 401 GET /api/users/me
+Body: 
+---
+[5/5/2026 10:53:11 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:53:16 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:53:16 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:53:16 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:53:16 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:53:17 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:53:23 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:53:23 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:53:23 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:53:23 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:53:41 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:53:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:53:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:54:03 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:54:03 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:54:03 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:54:03 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:54:04 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:54:06 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:54:06 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:54:06 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:54:07 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:54:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:54:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:55:12 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:55:12 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:55:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:55:40 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:55:42 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:55:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:56:14 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:56:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:56:42 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:56:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:57:12 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:57:33 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:57:33 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:57:33 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:57:33 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:57:34 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"ar"}
+---
+[5/5/2026 10:57:34 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:57:37 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:57:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:57:45 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:57:45 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:57:45 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/5/2026 10:57:45 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:57:46 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/5/2026 10:57:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:58:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 10:58:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 11:00:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 11:01:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 11:02:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 11:02:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 11:03:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 11:03:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 11:04:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 11:04:55 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/5/2026 11:05:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:03:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:04:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:04:44 PM] HTTP 403 GET /api/applications/my
+Body: 
+---
+[5/6/2026 12:04:44 PM] HTTP 403 GET /api/applications/my
+Body: 
+---
+[5/6/2026 12:04:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:04:56 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:04:56 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:04:56 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/6/2026 12:04:56 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/6/2026 12:04:56 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 12:04:56 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 12:04:59 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/6/2026 12:05:05 PM] HTTP 403 GET /api/applications/my
+Body: 
+---
+[5/6/2026 12:05:05 PM] HTTP 403 GET /api/applications/my
+Body: 
+---
+[5/6/2026 12:05:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:05:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:06:16 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:06:16 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:06:16 PM] HTTP 404 GET /chat/my-chats/cec4abf1-97f6-4e3a-8de3-ee5529b2aee6
+Body: 
+---
+[5/6/2026 12:06:16 PM] HTTP 404 GET /chat/my-chats/cec4abf1-97f6-4e3a-8de3-ee5529b2aee6
+Body: 
+---
+[5/6/2026 12:06:16 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:06:18 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:06:22 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:06:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:06:27 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:06:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:07:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:07:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:08:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:08:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:09:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:09:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:10:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:10:56 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:11:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:11:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:11:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:12:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:12:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:13:19 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:13:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:14:04 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:14:04 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:14:04 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 12:14:04 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 12:14:04 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/6/2026 12:14:05 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/6/2026 12:14:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:14:20 PM] HTTP 400 POST /api/Translation
+Body: {"text":["internship"],"targetLanguage":"ar"}
+---
+[5/6/2026 12:14:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:15:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:15:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:16:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:16:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:17:19 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:17:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:18:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:18:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:19:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:19:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:20:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:20:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:21:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:21:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:22:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:22:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:23:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:23:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:24:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:24:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:25:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:25:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:26:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:26:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:27:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:27:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:28:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:28:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:29:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:29:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:30:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:30:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:31:19 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:31:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:32:24 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:32:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:33:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:33:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:34:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:34:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:35:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:35:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:36:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:36:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:37:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:37:19 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:37:19 PM] HTTP 404 GET /chat/my-chats/801e87cb-45ee-4e07-ba2d-455f46934cee
+Body: 
+---
+[5/6/2026 12:37:19 PM] HTTP 404 GET /chat/my-chats/801e87cb-45ee-4e07-ba2d-455f46934cee
+Body: 
+---
+[5/6/2026 12:37:19 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:37:19 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:37:22 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:37:27 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:37:32 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:37:37 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:37:39 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:37:40 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:37:40 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:37:41 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:37:42 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:37:46 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:37:46 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:37:47 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:37:48 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:37:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:37:50 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:37:51 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:37:52 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:37:55 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:37:57 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:38:03 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:38:08 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:38:13 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:38:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:38:19 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:38:26 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:38:35 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:38:45 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:38:46 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:38:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:39:04 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:39:04 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/6/2026 12:39:04 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/6/2026 12:39:04 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 12:39:04 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 12:39:12 PM] HTTP 404 GET /chat/my-chats/d832bd19-a7cd-4c60-a688-5db0b78d2c17
+Body: 
+---
+[5/6/2026 12:39:12 PM] HTTP 404 GET /chat/my-chats/d832bd19-a7cd-4c60-a688-5db0b78d2c17
+Body: 
+---
+[5/6/2026 12:39:15 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:39:16 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:39:17 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:39:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:39:19 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:39:20 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:39:20 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:39:22 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:39:23 PM] HTTP 404 GET /chat/search-users
+Body: 
+---
+[5/6/2026 12:39:25 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/6/2026 12:39:31 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:39:31 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/6/2026 12:39:31 PM] HTTP 404 GET /api/applications/status/2
+Body: 
+---
+[5/6/2026 12:39:31 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 12:39:31 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 12:39:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:40:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:40:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:41:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:41:20 PM] HTTP 400 GET /api/jobs/undefined
+Body: 
+---
+[5/6/2026 12:41:20 PM] HTTP 400 GET /api/jobs/undefined
+Body: 
+---
+[5/6/2026 12:41:25 PM] HTTP 400 GET /api/jobs/undefined
+Body: 
+---
+[5/6/2026 12:41:25 PM] HTTP 400 GET /api/jobs/undefined
+Body: 
+---
+[5/6/2026 12:41:25 PM] HTTP 403 GET /api/applications/job/undefined
+Body: 
+---
+[5/6/2026 12:41:25 PM] HTTP 403 GET /api/applications/job/undefined
+Body: 
+---
+[5/6/2026 12:41:47 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:41:47 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:41:47 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 12:41:47 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 12:41:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:41:55 PM] HTTP 404 POST /api/jobs/3/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:41:55 PM] HTTP 404 POST /api/jobs/3/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:41:55 PM] HTTP 404 GET /api/jobs/similar/3
+Body: 
+---
+[5/6/2026 12:41:55 PM] HTTP 404 GET /api/jobs/similar/3
+Body: 
+---
+[5/6/2026 12:41:55 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/6/2026 12:42:03 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/6/2026 12:42:04 PM] HTTP 404 POST /api/jobs/3/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:42:04 PM] HTTP 404 POST /api/jobs/3/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:42:04 PM] HTTP 404 GET /api/jobs/similar/3
+Body: 
+---
+[5/6/2026 12:42:04 PM] HTTP 404 GET /api/jobs/similar/3
+Body: 
+---
+[5/6/2026 12:42:05 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/6/2026 12:42:06 PM] HTTP 400 POST /api/Translation
+Body: {"text":["one-time"],"targetLanguage":"ar"}
+---
+[5/6/2026 12:42:18 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:42:20 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:42:20 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:42:20 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 12:42:20 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 12:42:24 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:42:24 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:42:24 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 12:42:33 PM] HTTP 404 POST /api/jobs/3/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:42:33 PM] HTTP 404 POST /api/jobs/3/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 12:42:33 PM] HTTP 404 GET /api/jobs/similar/3
+Body: 
+---
+[5/6/2026 12:42:48 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:43:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:43:04 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:43:11 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:43:11 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:43:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:43:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:43:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:44:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:44:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:45:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:45:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:46:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:47:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:48:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:49:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:50:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:51:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:52:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:53:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:54:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:55:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:56:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:57:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:58:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 12:59:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:00:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:01:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:02:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:03:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:04:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:05:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:06:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:07:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:08:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:09:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:10:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:11:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:12:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:13:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:14:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:15:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:16:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:17:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:18:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:19:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:20:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:21:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:21:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:21:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:22:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:22:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:24:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:25:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:26:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:27:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:28:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:29:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:29:44 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:29:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:30:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:30:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:31:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:31:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:32:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:32:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:33:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:33:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:34:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:34:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:35:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:35:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:36:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:36:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:37:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:37:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:38:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:38:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:39:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:39:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:40:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:41:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:42:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:42:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:42:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:43:27 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:43:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:44:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:44:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:45:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:45:37 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"en"}
+---
+[5/6/2026 1:45:41 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"ar"}
+---
+[5/6/2026 1:45:45 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/6/2026 1:45:46 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/6/2026 1:45:46 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/6/2026 1:45:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:45:57 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"en"}
+---
+[5/6/2026 1:46:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:46:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:47:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:47:29 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"ar"}
+---
+[5/6/2026 1:47:31 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"en"}
+---
+[5/6/2026 1:47:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:48:00 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/6/2026 1:48:01 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/6/2026 1:48:02 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/6/2026 1:48:04 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/6/2026 1:48:05 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/6/2026 1:48:05 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/6/2026 1:48:05 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/6/2026 1:48:05 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/6/2026 1:48:05 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/6/2026 1:48:05 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/6/2026 1:48:05 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/6/2026 1:48:06 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/6/2026 1:48:06 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/6/2026 1:48:06 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/6/2026 1:48:06 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/6/2026 1:48:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:48:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:50:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:51:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:51:26 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:51:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:52:01 PM] HTTP 404 POST /api/jobs/3/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 1:52:01 PM] HTTP 404 GET /api/applications/status/3
+Body: 
+---
+[5/6/2026 1:52:01 PM] HTTP 404 POST /api/jobs/3/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 1:52:01 PM] HTTP 404 GET /api/applications/status/3
+Body: 
+---
+[5/6/2026 1:52:01 PM] HTTP 404 GET /api/jobs/similar/3
+Body: 
+---
+[5/6/2026 1:52:01 PM] HTTP 404 GET /api/jobs/similar/3
+Body: 
+---
+[5/6/2026 1:52:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:52:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:54:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:55:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:56:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:57:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:57:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:57:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:59:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:59:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 1:59:39 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/6/2026 1:59:39 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/6/2026 1:59:45 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/6/2026 1:59:46 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/6/2026 1:59:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:00:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:00:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:02:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:03:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:03:46 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:03:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:03:58 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"ar"}
+---
+[5/6/2026 2:04:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:04:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:05:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:05:38 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/6/2026 2:05:39 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/6/2026 2:05:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:06:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:06:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:07:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:07:23 PM] HTTP 404 POST /api/jobs/4/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 2:07:23 PM] HTTP 404 POST /api/jobs/4/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 2:07:23 PM] HTTP 404 GET /api/jobs/similar/4
+Body: 
+---
+[5/6/2026 2:07:23 PM] HTTP 404 GET /api/jobs/similar/4
+Body: 
+---
+[5/6/2026 2:07:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:08:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:08:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:09:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:09:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:10:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:10:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:11:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:11:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:12:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:12:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:13:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:13:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:14:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:14:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:15:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:15:34 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"thet2@gamil.com","password":"12345678"}
+---
+[5/6/2026 2:15:39 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"thet2@gamil.com","password":"12345678"}
+---
+[5/6/2026 2:15:48 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"thet2@gamil.com","password":"12345678"}
+---
+[5/6/2026 2:15:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:16:03 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"thet2@gamil.com","password":"12345678"}
+---
+[5/6/2026 2:16:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:16:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:18:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:19:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:20:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:21:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:22:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:23:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:24:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:24:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:24:35 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 2:24:35 PM] HTTP 404 POST /api/jobs/2/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 2:24:35 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 2:24:35 PM] HTTP 404 GET /api/jobs/similar/2
+Body: 
+---
+[5/6/2026 2:24:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:25:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:25:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:26:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:26:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:27:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:27:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:28:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:28:35 PM] HTTP 404 POST /api/jobs/4/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 2:28:35 PM] HTTP 404 POST /api/jobs/4/view
+Body: {"sessionId":"3opukq0esykln0ghqj9jn"}
+---
+[5/6/2026 2:28:35 PM] HTTP 404 GET /api/jobs/similar/4
+Body: 
+---
+[5/6/2026 2:28:35 PM] HTTP 404 GET /api/jobs/similar/4
+Body: 
+---
+[5/6/2026 2:28:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:29:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:29:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:30:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:30:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:32:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:33:00 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:33:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:33:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:34:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:34:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:36:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:37:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:38:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:39:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:40:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:41:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:42:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:43:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:44:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:45:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:45:49 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:45:53 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:59:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 2:59:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 3:00:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 3:00:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 3:01:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 3:01:39 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 3:02:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/6/2026 3:02:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 6:06:01 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"en"}
+---
+[5/7/2026 6:06:07 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"ar"}
+---
+[5/7/2026 6:06:19 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"en"}
+---
+[5/7/2026 6:07:02 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"ar"}
+---
+[5/7/2026 6:07:34 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 6:07:34 PM] HTTP 404 GET /chat/my-chats/801e87cb-45ee-4e07-ba2d-455f46934cee
+Body: 
+---
+[5/7/2026 6:07:34 PM] HTTP 404 GET /chat/my-chats/801e87cb-45ee-4e07-ba2d-455f46934cee
+Body: 
+---
+[5/7/2026 6:07:34 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 8:15:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:16:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:16:35 PM] HTTP 400 POST /api/auth/login
+Body: {"email":"thet2@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:16:43 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:16:43 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:16:49 PM] HTTP 400 POST /api/auth/login
+Body: {"email":"thet2@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:16:49 PM] EXCEPTION GET /api/jobs/categories
+Error: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+StackTrace:    at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at CompanyDashboardAPI.Services.JobsService.GetAllJobsAsync(String userId, Nullable`1 companyId) in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Services\JobsService.cs:line 68
+   at CompanyDashboardAPI.Controllers.JobsController.GetCategories() in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Controllers\JobsController.cs:line 60
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_7>d.MoveNext() in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Program.cs:line 136
+---
+[5/7/2026 8:16:49 PM] EXCEPTION GET /api/jobs
+Error: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+StackTrace:    at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at CompanyDashboardAPI.Services.JobsService.GetAllJobsAsync(String userId, Nullable`1 companyId) in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Services\JobsService.cs:line 68
+   at CompanyDashboardAPI.Controllers.JobsController.GetAllJobs(String location, String classification, String excludeClassification, String userId, Nullable`1 companyId, Nullable`1 limit) in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Controllers\JobsController.cs:line 29
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_7>d.MoveNext() in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Program.cs:line 136
+---
+[5/7/2026 8:16:49 PM] EXCEPTION GET /api/jobs/categories
+Error: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+StackTrace:    at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at CompanyDashboardAPI.Services.JobsService.GetAllJobsAsync(String userId, Nullable`1 companyId) in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Services\JobsService.cs:line 68
+   at CompanyDashboardAPI.Controllers.JobsController.GetCategories() in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Controllers\JobsController.cs:line 60
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_7>d.MoveNext() in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Program.cs:line 136
+---
+[5/7/2026 8:17:00 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:17:00 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:17:31 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:17:41 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:18:11 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:18:22 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:18:41 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:19:11 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:19:34 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:19:41 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:20:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:20:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:20:13 PM] EXCEPTION GET /api/jobs
+Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+StackTrace:    at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at CompanyDashboardAPI.Services.JobsService.GetAllJobsAsync(String userId, Nullable`1 companyId) in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Services\JobsService.cs:line 68
+   at CompanyDashboardAPI.Controllers.JobsController.GetAllJobs(String location, String classification, String excludeClassification, String userId, Nullable`1 companyId, Nullable`1 limit) in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Controllers\JobsController.cs:line 29
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_7>d.MoveNext() in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Program.cs:line 136
+---
+[5/7/2026 8:20:13 PM] EXCEPTION GET /api/jobs
+Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+StackTrace:    at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at CompanyDashboardAPI.Services.JobsService.GetAllJobsAsync(String userId, Nullable`1 companyId) in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Services\JobsService.cs:line 68
+   at CompanyDashboardAPI.Controllers.JobsController.GetAllJobs(String location, String classification, String excludeClassification, String userId, Nullable`1 companyId, Nullable`1 limit) in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Controllers\JobsController.cs:line 29
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_7>d.MoveNext() in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Program.cs:line 136
+---
+[5/7/2026 8:20:13 PM] EXCEPTION GET /api/jobs/categories
+Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+StackTrace:    at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at CompanyDashboardAPI.Services.JobsService.GetAllJobsAsync(String userId, Nullable`1 companyId) in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Services\JobsService.cs:line 68
+   at CompanyDashboardAPI.Controllers.JobsController.GetCategories() in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Controllers\JobsController.cs:line 60
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_7>d.MoveNext() in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Program.cs:line 136
+---
+[5/7/2026 8:20:13 PM] EXCEPTION GET /api/jobs
+Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+StackTrace:    at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at CompanyDashboardAPI.Services.JobsService.GetAllJobsAsync(String userId, Nullable`1 companyId) in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Services\JobsService.cs:line 68
+   at CompanyDashboardAPI.Controllers.JobsController.GetAllJobs(String location, String classification, String excludeClassification, String userId, Nullable`1 companyId, Nullable`1 limit) in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Controllers\JobsController.cs:line 29
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_7>d.MoveNext() in F:\SH A\4- الفرقه الرابعة BIS\الترم التاني 2\STU\0- Project SH A\Project Run\Web\Me\BackEnd-Jobito-master\Program.cs:line 136
+---
+[5/7/2026 8:20:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:21:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:21:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:22:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:22:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:23:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:27:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:27:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:27:25 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:27:32 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:27:34 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"thet2@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:01 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"thet2@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:28:05 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:32 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:28:42 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:43 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:44 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:44 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:44 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:44 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:55 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:56 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:56 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:56 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:56 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:56 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:28:57 PM] HTTP 401 POST /api/auth/login
+Body: {"email":"bmw@gmail.com","password":"12345678"}
+---
+[5/7/2026 8:29:02 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:29:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:29:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:29:59 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:30:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:30:59 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:31:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:31:59 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:32:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:32:59 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:33:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:33:59 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:34:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:34:59 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:35:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:35:59 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:36:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:36:23 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:36:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:36:33 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:37:03 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:37:21 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:37:21 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:37:51 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:38:21 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:38:51 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:38:53 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"en"}
+---
+[5/7/2026 8:39:03 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 8:39:04 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 8:39:04 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 8:39:06 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 8:39:07 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 8:39:12 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 8:39:25 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:39:25 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"ar"}
+---
+[5/7/2026 8:39:35 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 8:39:35 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 8:39:35 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 8:39:35 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 8:39:36 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 8:39:51 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:40:11 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 8:40:11 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 8:40:11 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 8:40:11 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 8:40:12 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 8:40:21 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:40:51 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:41:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:41:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:42:42 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:43:10 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:43:10 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:44:10 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:44:10 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:44:21 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:44:52 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:45:22 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:45:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:45:29 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:45:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:46:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:46:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:47:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:47:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:48:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:48:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:49:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:49:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:50:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:50:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:51:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:51:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:52:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:52:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:53:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:53:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:54:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:54:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:55:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:55:39 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:56:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:56:41 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:57:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:57:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:58:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:58:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:59:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 8:59:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:00:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:00:30 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 9:00:30 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 9:00:30 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 9:00:30 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 9:00:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:01:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:01:39 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:02:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:02:11 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 9:02:11 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 9:02:11 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 9:02:11 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 9:02:12 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 9:02:13 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 9:02:13 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 9:02:13 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 9:02:16 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 9:02:16 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 9:02:16 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 9:02:16 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 9:02:21 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 9:02:21 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 9:02:21 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 9:02:23 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 9:02:23 PM] HTTP 404 GET /chat/my-chats/48483c24-7c92-4612-9061-1956fc5f7be5
+Body: 
+---
+[5/7/2026 9:02:23 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 9:02:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:03:09 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:03:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:04:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:04:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:05:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:05:42 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:06:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:06:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:07:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:07:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:08:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:08:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:09:02 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"dark"}
+---
+[5/7/2026 9:09:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:09:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:09:54 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"en"}
+---
+[5/7/2026 9:10:01 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"ar"}
+---
+[5/7/2026 9:10:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:10:26 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"en"}
+---
+[5/7/2026 9:10:29 PM] HTTP 404 PATCH /api/users/me/language
+Body: {"language":"ar"}
+---
+[5/7/2026 9:10:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:10:39 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 9:10:39 PM] HTTP 404 GET /chat/my-chats/cec4abf1-97f6-4e3a-8de3-ee5529b2aee6
+Body: 
+---
+[5/7/2026 9:10:39 PM] HTTP 404 GET /chat/my-chats/cec4abf1-97f6-4e3a-8de3-ee5529b2aee6
+Body: 
+---
+[5/7/2026 9:10:39 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 9:10:40 PM] HTTP 404 GET /socket.io/
+Body: 
+---
+[5/7/2026 9:10:42 PM] HTTP 404 PATCH /api/users/me/theme
+Body: {"theme":"light"}
+---
+[5/7/2026 9:11:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:11:39 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:12:42 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:13:08 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:13:38 PM] HTTP 404 GET /api/
+Body: 
+---
+[5/7/2026 9:14:17 PM] HTTP 404 GET /api/
+Body: 
+---
